@@ -1,0 +1,39 @@
+# Local settings and private scan configuration
+.env
+.env.*
+!.env.example
+.sanitizer.local.json
+.codex/
+.cursor/
+.vscode/
+.idea/
+
+# Work products and private source materials
+private/
+local/
+input/
+inputs/
+output/
+outputs/
+artifacts/
+backups/
+audit-reports/
+.build/
+.tmp/
+tmp/
+*.ppt
+*.pptx
+*.pdf
+*.docx
+*.zip
+*.bak
+*.log
+~$*
+
+# OS and runtime caches
+.DS_Store
+Thumbs.db
+desktop.ini
+__pycache__/
+*.pyc
+node_modules/

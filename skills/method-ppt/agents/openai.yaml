@@ -1,0 +1,4 @@
+interface:
+  display_name: "专用个性化讲解型PPT"
+  short_description: "按汇报偏好组织方法、公式与流程，支持原文截图、局部修改和逐页口播稿"
+  default_prompt: "使用 $method-ppt，依据我提供的材料和模板制作PPT，讲清方法、公式各项的作用与算法流程。"
